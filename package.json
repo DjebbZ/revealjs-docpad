@@ -1,6 +1,6 @@
 {
   "name": "revealjs.docpad",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create reveal.js presentations using Docpad",
   "keywords": [
     "docpad",
