@@ -12,7 +12,7 @@ Gives you everything to directly start writing your reveal.js slides, with an op
 1. Clone the project and run the server
 
 	``` bash
-	git clone git://github.com/djebbz/revealjs.docpad.git
+	git clone git://github.com/DjebbZ/revealjs-docpad.git
 	cd revealjs.docpad
 	npm install
 	docpad run
@@ -49,7 +49,7 @@ Add as many slide files as you need. The content is written in Markdown.
 
 If you want to use vertical slides, wrap each vertical slide content in a `<section>` tag :
 
-	``` html
+	``` 
 	<section>
 		Vertical Slide 1
 	</section>
